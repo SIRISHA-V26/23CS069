@@ -1,3 +1,3 @@
 # 23CS069
-this my second repositry
+This my second repositry
 Author - Sirisha V
